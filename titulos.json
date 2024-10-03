@@ -1,0 +1,26 @@
+[
+  {
+    "Nombre": "Matrix",
+    "FechaDeLanzamiento": 1993,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 60
+  },
+  {
+    "Nombre": "Encanto",
+    "FechaDeLanzamiento": 2021,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 102
+  },
+  {
+    "Nombre": "Top Gun",
+    "FechaDeLanzamiento": 1986,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 109
+  }
+]
